@@ -1,0 +1,31 @@
+.forms
+{
+    margin: 30px;
+    padding: 60px;
+    background-color: rgb(97, 121, 228);
+}
+
+h1{
+    text-align: center;
+}
+.main
+{
+    background-color: white;
+    padding: 30px;
+
+}
+
+.main label
+{
+    margin: 10px;
+}
+
+.second label,input{
+    margin: 10px;
+}
+
+
+button{
+    background-color: aqua;
+}
+
